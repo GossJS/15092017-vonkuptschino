@@ -1,0 +1,19 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<!ELEMENT url (ips|platform|mobile)+ >
+<!ELEMENT ips (ip)* >
+<!ELEMENT platform (os)* >
+<!ELEMENT mobile (mobos)* >
+<!ELEMENT ip (#PCDATA) >
+<!ELEMENT os (#PCDATA) >
+<!ELEMENT mobos (#PCDATA)>
+
+<!ATTLIST ip addr CDATA #REQUIRED>
+<!ATTLIST ip frequency CDATA #REQUIRED>
+
+<!ATTLIST os label CDATA #REQUIRED>
+<!ATTLIST os frequency CDATA #REQUIRED>
+
+<!ATTLIST mobos label CDATA #REQUIRED>
+<!ATTLIST mobos frequency CDATA #REQUIRED>
+
