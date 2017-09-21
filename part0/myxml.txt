@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!DOCTYPE tabliza PUBLIC "KramarJS" "http://kodaktor.ru/j/dtd_8bfa3">
+
+<tabliza>
+   <student nachname="Ivanov">
+      <otmetka disziplin="Multimedia">3</otmetka>
+      <otmetka disziplin="Webdesign">3</otmetka>
+      <otmetka disziplin="Graphik">5</otmetka>
+   </student>
+   <student nachname="Petrov">
+      <otmetka disziplin="Multimedia">3</otmetka>
+      <otmetka disziplin="Webdesign">4</otmetka>
+      <otmetka disziplin="Graphik">5</otmetka>
+      <otmetka disziplin="Logik">5</otmetka>
+   </student>
+   <student nachname="Sidorenko">
+      <otmetka disziplin="Multimedia">3</otmetka>
+      <otmetka disziplin="Webdesign">4</otmetka>
+      <otmetka disziplin="Graphik">5</otmetka>
+      <otmetka disziplin="Logik">4</otmetka>
+   </student>
+</tabliza>

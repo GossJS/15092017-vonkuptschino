@@ -1,0 +1,7 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+
+<!ELEMENT tabliza (student)* >
+<!ELEMENT student (otmetka)* >
+<!ELEMENT otmetka (#PCDATA) >
+<!ATTLIST student nachname CDATA #REQUIRED>
+<!ATTLIST otmetka disziplin CDATA #REQUIRED>
