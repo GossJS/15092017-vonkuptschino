@@ -1,0 +1,71 @@
+{
+	"tabliza":
+	[
+		
+		{"student":
+			{
+				"nachname": "Sidorenko",
+				"otmetka":
+				[{
+					"disziplin": "Multimedia",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Webdesign",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Graphik",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Logik",
+					"value": "marke"
+				}]
+			}
+		},
+
+		{"student":
+			{
+				"nachname": "Ivanov",
+				"otmetka":
+				[{
+					"disziplin": "Multimedia",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Webdesign",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Graphik",
+					"value": "marke"
+				}]
+			}
+		},
+		{
+			"student":
+			{
+				"nachname": "Petrov",
+				"otmetka":
+				[{
+					"disziplin": "Multimedia",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Webdesign",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Graphik",
+					"value": "marke"
+				},
+				{
+					"disziplin": "Logik",
+					"value": "marke"
+				}]
+		}
+		
+	}]
+}
+
